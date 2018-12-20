@@ -1,5 +1,5 @@
 # CodePathiOS
-This is an iOS project designed by CodePath
+This is an iOS project designed by Yi Qin, following the instructions from CodePath
 ## iOSYiQin
 
 ### App Description
