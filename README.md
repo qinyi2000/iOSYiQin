@@ -1,5 +1,5 @@
 # CodePathiOS
-This is an iOS project for CodePath enrollment during PennApps2018
+This is an iOS project designed by CodePath
 ## iOSYiQin
 
 ### App Description
